@@ -1,0 +1,1 @@
+# NCover-Summary-Report-Generator
